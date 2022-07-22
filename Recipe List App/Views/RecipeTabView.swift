@@ -18,7 +18,7 @@ struct RecipeTabView: View {
                         Text("Featured")
                     }
                 }
-           // RecipeListView()
+            RecipeListView()
                 
                 .tabItem{
                     VStack{
